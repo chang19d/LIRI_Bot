@@ -1,0 +1,32 @@
+{
+  "name": "LIRI_Bot",
+  "version": "1.0.0",
+  "description": "a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chang19d/LIRI_Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chang19d/LIRI_Bot/issues"
+  },
+  "homepage": "https://github.com/chang19d/LIRI_Bot#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bandsintown-events": "^1.0.4",
+    "dotenv": "^6.0.0",
+    "file-system": "^2.2.2",
+    "moment": "^2.22.2",
+    "node-spotify-api": "^1.0.7",
+    "omdb": "^0.8.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
+    "reqwest": "^2.0.5"
+  }
+}
